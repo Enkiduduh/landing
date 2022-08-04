@@ -1,0 +1,9 @@
+.bm-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bm-body img {
+  width: 900px;
+}

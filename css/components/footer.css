@@ -1,0 +1,32 @@
+.footer {
+  width: 100%;
+  margin: 0 auto;
+  background-color: black;
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-left: 0px ;
+
+}
+
+.icons a {
+  color: #ffffff;
+  font-size: 40px;
+  /* display: inline-block; */
+}
+
+.icons li {
+  display: inline-block;
+  padding: 0px 20px;
+  align-items: center;
+}
+
+.icons {
+  padding-left: 20px;
+}
+
+.icons a:hover {
+  color: #918c8c;
+  font-size: 40px;
+}
